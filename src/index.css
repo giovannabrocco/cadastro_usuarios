@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+
+}
+
+
+body  {
+  min-height: 100vh;
+  width: 100vw;
+  background-image: url("5.jpg");
+  backdrop-filter: blur(60px);
+  background-color: rgba(0, 0, 0, 0.5);
+  
+}
